@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Salutations 
 
-<!--
-**rieleyhunt/rieleyhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Rieley, a Computer Science Honours student at Carleton University passionate about Software Engineering and development. I am always eager to learn new technologies and to work on new projects.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Python, Java, C, C++, JavaScript, MATLAB, and Lua.
+- Technologies: Node.Js, Godot, HTML, CSS, PowerShell, and Linux operating systems.
+- Tools: MATLAB, Github, Git, Visual Studio Code, Intellij, Eclipse, Atom, and Pycharm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of the projects I've been working on:
+
+1. **Phasmophobia Simulator**: Short description of the project.
+   - [(https://github.com/rieleyhunt/Phasmophobia-Simulator)](link)
+   - [Link to Live Demo/Website](link)
+   - Technologies used: [List of Technologies]
+
+2. **BattleSnake**: Short description of the project.
+   - [Link to Project Repository](link)
+   - [Link to Live Demo/Website](link)
+   - Technologies used: [List of Technologies]
+
+## Contact Me
+- LinkedIn: [Your LinkedIn Profile](link)
+- Twitter: [Your Twitter Profile](link)
+- Personal Website: [Your Personal Website](link)
+
+Feel free to reach out if you have any questions or just want to connect!
