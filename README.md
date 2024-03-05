@@ -12,9 +12,8 @@ I'm Rieley, a Computer Science Honours student at Carleton University passionate
 Here are some of the projects I've been working on:
 
 1. **Phasmophobia Simulator**: Short description of the project.
-   - [(https://github.com/rieleyhunt/Phasmophobia-Simulator)](link)
-   - [Link to Live Demo/Website](link)
-   - Technologies used: [List of Technologies]
+   - [Phasmophobia Simulator](https://github.com/rieleyhunt/Phasmophobia-Simulator)
+   - Technologies used: [C, MultiThreading, Dynamic memory managemen, Git]
 
 2. **BattleSnake**: Short description of the project.
    - [Link to Project Repository](link)
