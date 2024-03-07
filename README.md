@@ -13,11 +13,11 @@ Here are some of the projects I've been working on:
 
 **Phasmophobia Simulator**:
    - [Phasmophobia Simulator](https://github.com/rieleyhunt/Phasmophobia-Simulator)
-   - Technologies used: [C, MultiThreading, Dynamic memory managemen, Git]
+   - Technologies used: C, MultiThreading, Dynamic memory management, Git
 
 **BattleSnake**:
    - [BattleSnake](https://github.com/rieleyhunt/Battle-Snake)
-   - Technologies used: [Python, BattleSnake API, flask API]
+   - Technologies used: Python, BattleSnake API, flask API
 
 ## Contact Me
 - LinkedIn: [rieleyhunt](https://www.linkedin.com/in/rieleyhunt/)
