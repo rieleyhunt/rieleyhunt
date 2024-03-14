@@ -1,7 +1,7 @@
 # 👋 Hello
 
 ## About Me
-I'm Rieley, a Computer Science Honours student at Carleton University passionate about Software Engineering and Music. I am always eager to learn new technologies and to work on new projects.
+Hello! I'm Rieley Hunt, a dedicated Computer Science Honours student with a passion for exploring the intersection of technology and creativity. Currently pursuing my Bachelor's degree at Carleton University with a minor in Music, I am deeply engaged in honing my skills in software development while embracing my love for music through guitar playing.
 
 ## Skills
 - Programming Languages: Python, Java, C, C++, JavaScript, MATLAB, and Lua.
