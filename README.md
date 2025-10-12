@@ -11,17 +11,15 @@ Hello! I'm Rieley Hunt, a dedicated Computer Science Honours student with a pass
 ## Projects
 Here are some of the projects I've been working on:
 
-**Phasmophobia Simulator**:
-   - [Phasmophobia Simulator](https://github.com/rieleyhunt/Phasmophobia-Simulator)
-   - Technologies used: C, MultiThreading, Dynamic memory management, Git
+**SafeSpace**:
+   - Tech-Nol-Hack 2025 winner
+   - https://github.com/rieleyhunt/safespace
+   - Technologies used: HTML/CSS, Bootstrap, Node.js, Javascript, Supabase for database.
 
 **BattleSnake**:
    - [BattleSnake](https://github.com/rieleyhunt/Battle-Snake)
    - Technologies used: Python, BattleSnake API, flask API
 
-**Chord Transposer**:
-   - [Chord Transposer](https://github.com/rieleyhunt/Chord-Transposer)
-   - Technologies used: Node.js, HTML, CSS, Javascript
 
 ## Contact Me
 - LinkedIn: [rieleyhunt](https://www.linkedin.com/in/rieleyhunt/)
