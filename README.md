@@ -5,7 +5,7 @@ Hello! I'm Rieley Hunt, a dedicated Computer Science Honours student with a pass
 
 ## Skills
 - Programming Languages: Python, Java, C, C++, JavaScript, MATLAB, and Lua.
-- Technologies: Node.Js, Godot, HTML, CSS, PowerShell, and Linux operating systems.
+- Technologies: Node.Js, Godot, HTML, CSS, PowerShell, Bootstrap, Playframework, Knockout.JS, Jquery and Linux operating systems.
 - Tools: MATLAB, Github, Git, Visual Studio Code, Intellij, Eclipse, Atom, and Pycharm.
 
 ## Projects
