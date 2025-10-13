@@ -74,6 +74,15 @@
 - Created a Java-based image analysis tool exporting metrics to Excel via Apache POI.  
 - Applied MATLAB algorithms to analyze **visual complexity** and **eye-tracking data**.  
 
+**🎓 Undergraduate Teaching Assistant – Python** (May 2025 – Jun. 2025)  
+- Supported 500+ students in an introductory Python programming course.  
+- Graded and provided feedback on 700+ assessments and exams.  
+- Explained advanced coding concepts clearly during office hours and online discussions.
+
+**🧮 Undergraduate Teaching Assistant – Discrete Mathematics** (Sept 2023 – Dec 2023 & Jan 2025 – Apr 2025)  
+- Led tutorial sessions and assisted students in understanding logic, set theory, and proofs.  
+- Provided feedback on exams and assignments for over 700 submissions.  
+- Offered one-on-one academic support to help students strengthen problem-solving skills.
 ---
 
 ## 🏆 Achievements & Metrics
