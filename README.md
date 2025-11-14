@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Rieley Hunt
+# Hello, I'm Rieley Hunt
 
-🎓 Third-Year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
-💻 Passionate about **full-stack development**, **data-driven research**, and building tools that solve real-world problems.  
-🏆 Hackathon winner | Researcher | Developer @ [SpryPoint](https://www.sprypoint.com)
+Third-Year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
+Passionate about building tools that solve real-world problems, and working in an environment where I can solve complex challenges.  
+Developer @ [SpryPoint](https://www.sprypoint.com)
 
 ---
 
-### 🧠 My Tech Stack
+### My Tech Stack
 
 <div align="center">
   <table>
@@ -50,42 +50,42 @@
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [SafeSpace](https://github.com/rieleyhunt/SafeSpace) | 🏆 *Tech-Nol-Hack 2025* winning app that connects users with walking companions for safer travel. | Node.js, JavaScript, Supabase, Bootstrap |
-| [Pupil](https://github.com/rieleyhunt/Pupil) | AI assistant built at *cuHacking 2025* that helps students automate semester planning using Google Gemini API. | React, Figma, RESTful APIs |
-| [Battlesnake AI](https://github.com/rieleyhunt/Battlesnake-AI) | Competitive Python snake bot built for the Battlesnake tournament. | Python, GitHub, VS Code |
+| [SafeSpace](https://github.com/rieleyhunt/SafeSpace) | *Tech-Nol-Hack 2025* winning app that connects users with walking companions for safer travel. | Node.js, JavaScript, Supabase, Bootstrap |
+| [Battlesnake AI](https://github.com/rieleyhunt/Battlesnake-AI) | Competitive Python snake bot built for the Battlesnake tournament. | Python, APIs |
+| [Personal Website](https://www.rieley.ca) | Built entirely from scratch using HTML5/CSS3, Bootstrap5, and JS. | HTML, CSS, Bootstrap, JavaScript |
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-**💻 Full-Stack Developer @ SpryPoint** (Sept 2025 – Present)  
+**Full-Stack Developer @ SpryPoint** (Sept 2025 – Present)  
 - Building scalable applications using **Java**, **Play Framework**, **KnockoutJS**, and **Bootstrap**.  
 - Collaborating with an Agile team of 10+ engineers using **JIRA** and **GitLab**.
 
-**🌾 Software Engineer @ Agriculture and Agri-Food Canada** (Sept 2024 – Dec 2024)  
+**Geospatial Data Engineer @ Agriculture and Agri-Food Canada** (Sept 2024 – Dec 2024)  
 - Developed large-scale R scripts to analyze over 100,000 ecozone polygons for ammonia emission mapping.  
 - Delivered impactful data visualizations for **AAFC** and **ECCC** teams.
 
-**🔬 Research Assistant @ Carleton University** (May 2023 – Dec 2023)  
+**Research Assistant @ Carleton University** (May 2023 – Dec 2023)  
 - Created a Java-based image analysis tool exporting metrics to Excel via Apache POI.  
 - Applied MATLAB algorithms to analyze **visual complexity** and **eye-tracking data**.  
 
-**🎓 Undergraduate Teaching Assistant – Python** (May 2025 – Jun. 2025)  
+**Undergraduate Teaching Assistant – Python** (May 2025 – Jun. 2025)  
 - Supported 500+ students in an introductory Python programming course.  
 - Graded and provided feedback on 700+ assessments and exams.  
 - Explained advanced coding concepts clearly during office hours and online discussions.
 
-**🧮 Undergraduate Teaching Assistant – Discrete Mathematics** (Sept 2023 – Dec 2023 & Jan 2025 – Apr 2025)  
+**Undergraduate Teaching Assistant – Discrete Mathematics** (Sept 2023 – Dec 2023 & Jan 2025 – Apr 2025)  
 - Led tutorial sessions and assisted students in understanding logic, set theory, and proofs.  
 - Provided feedback on exams and assignments for over 700 submissions.  
 - Offered one-on-one academic support to help students strengthen problem-solving skills.
 ---
 
-## 🏆 Achievements & Metrics
+## Achievements & Metrics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rieleyhunt&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -93,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rieleyhunt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -107,7 +107,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:rieleyhunt@cmail.carleton.ca"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
@@ -117,4 +117,4 @@
 
 ---
 
-> 💬 *“Building reliable, creative software that connects data and people.”*
+> *“Building reliable, creative software that connects data and people.”*
