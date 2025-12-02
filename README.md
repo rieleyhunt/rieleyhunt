@@ -55,7 +55,7 @@ Developer @ [SpryPoint](https://www.sprypoint.com)
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [SafeSpace](https://github.com/rieleyhunt/SafeSpace) | *Tech-Nol-Hack 2025* winning app that connects users with walking companions for safer travel. | Node.js, JavaScript, Supabase, Bootstrap |
-| [Battlesnake AI](https://github.com/rieleyhunt/Battlesnake-AI) | Competitive Python snake bot built for the Battlesnake tournament. | Python, APIs |
+| [Music Club Website](https://github.com/rieleyhunt/MusicClubWebsite) | Full-stack React & Node.js application for use by Carleton Music Club members. | React, Node.js, Express, JavaScript, Vite, MongoDB |
 | [Personal Website](https://www.rieley.ca) | Built entirely from scratch using HTML5/CSS3, Bootstrap5, and JS. | HTML, CSS, Bootstrap, JavaScript |
 
 ---
