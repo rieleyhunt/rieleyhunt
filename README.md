@@ -62,21 +62,27 @@ Developer @ [SpryPoint](https://www.sprypoint.com)
 
 ## Work Experience
 
-**Full-Stack Developer @ SpryPoint** (Sept 2025 – Present)  
-- Building scalable applications using **Java**, **Play Framework**, **KnockoutJS**, and **Bootstrap**.  
-- Collaborating with an Agile team of 10+ engineers using **JIRA** and **GitLab**.
-
+**Full-Stack Developer @ SpryPoint** (Sept 2025 – Present)
+- Actively contributed to a 10+ person Scrum team, engaging in daily stand-ups, sprint planning, and iterative software development tracked in JIRA.
+- Developing and maintaining front-end features using Bootstrap, HTML5/CSS3, KnockoutJS, and jQuery, alongside backend components in Java.
+- Implementing RESTful APIs and controllers within the Play Framework to support scalable, high-performance applications.
+- Contributing to mobile application development and testing using Xcode, Flutter, Dart, and Android Studio.
+  
 **Geospatial Data Engineer @ Agriculture and Agri-Food Canada** (Sept 2024 – Dec 2024)  
 - Developed large-scale R scripts to analyze over 100,000 ecozone polygons for ammonia emission mapping.  
 - Delivered impactful data visualizations for **AAFC** and **ECCC** teams.
+- Used tools like Git and GitLab for version control.
+- Presented final research findings to the Sustainability Metrics Team.
 
-**Research Assistant @ Carleton University** (May 2023 – Dec 2023)  
-- Created a Java-based image analysis tool exporting metrics to Excel via Apache POI.  
-- Applied MATLAB algorithms to analyze **visual complexity** and **eye-tracking data**.  
+**Research Assistant @ Carleton University** (May 2023 – Dec 2023) 
+- In the process of publishing research findings with the Taylor & Francis Ergonomics Journal.
+- Created a Java-based image analysis tool exporting metrics to Excel via Apache POI.
+- Applied MATLAB algorithms to analyze **visual complexity** and **eye-tracking data**.
 
-**Undergraduate Teaching Assistant – Python** (May 2025 – Jun. 2025)  
+**Undergraduate Teaching Assistant – Python** (May 2025 – Jun. 2025)  \
+- Led 3 hour long tutorials each week.
 - Supported 500+ students in an introductory Python programming course.  
-- Graded and provided feedback on 700+ assessments and exams.  
+- Graded and provided feedback on 700+ assessments and exams.
 - Explained advanced coding concepts clearly during office hours and online discussions.
 
 **Undergraduate Teaching Assistant – Discrete Mathematics** (Sept 2023 – Dec 2023 & Jan 2025 – Apr 2025)  
@@ -84,37 +90,3 @@ Developer @ [SpryPoint](https://www.sprypoint.com)
 - Provided feedback on exams and assignments for over 700 submissions.  
 - Offered one-on-one academic support to help students strengthen problem-solving skills.
 ---
-
-## Achievements & Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rieleyhunt&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rieleyhunt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rieleyhunt&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieleyhunt&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rieleyhunt&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="mailto:rieleyhunt@cmail.carleton.ca"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
-  <a href="https://linkedin.com/in/rieleyhunt"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/rieleyhunt"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</p>
-
----
-
-> *“Building reliable, creative software that connects data and people.”*
