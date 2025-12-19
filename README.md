@@ -2,7 +2,6 @@
 
 Third-Year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
 Passionate about building tools that solve real-world problems, and working in an environment where I can solve complex challenges.  
-Developer @ [SpryPoint](https://www.sprypoint.com)
 
 ---
 
@@ -62,7 +61,7 @@ Developer @ [SpryPoint](https://www.sprypoint.com)
 
 ## Work Experience
 
-**Full-Stack Developer @ SpryPoint** (Sept 2025 – Present)
+**Full-Stack Developer @ SpryPoint** (Sept 2025 – Dec. 2025)
 - Actively contributed to a 10+ person Scrum team, engaging in daily stand-ups, sprint planning, and iterative software development tracked in JIRA.
 - Developing and maintaining front-end features using Bootstrap, HTML5/CSS3, KnockoutJS, and jQuery, alongside backend components in Java.
 - Implementing RESTful APIs and controllers within the Play Framework to support scalable, high-performance applications.
