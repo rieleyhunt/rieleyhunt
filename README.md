@@ -1,6 +1,6 @@
 # Hello, I'm Rieley Hunt
 
-Third-Year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
+Fourth year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
 Passionate about building tools that solve real-world problems, and working in an environment where I can solve complex challenges.  
 
 ---
