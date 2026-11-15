@@ -1,7 +1,7 @@
 # Hello, I'm Rieley Hunt
 
 Fourth year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
-I like to solve problems with computers.
+I like solving problems with computers.  
 
 [rieley.ca](https://www.rieley.ca)
 [LinkedIn](https://www.linkedin.com/in/rieleyhunt)
@@ -89,7 +89,7 @@ Rieley Hunt, Nadine Marie Moacdieh. *Ergonomics* (Taylor & Francis), October 202
 - Led two tutorials a week for 30+ students, and proctored and marked assignments and tests.
 - Supported 500+ students and graded 700+ assessments and exams.
 
-**Software Engineer Intern @ SpryPoint** (May 2026 – Aug. 2026)
+**Software Engineer Intern @ SpryPoint** (May 2026 – Aug. 2026 & Sept. 2025 – Dec. 2025)
 - Contributed to a 10+ person Scrum team, with daily standups, sprint planning, and work tracked in JIRA.
 - Developed front end features using Bootstrap, HTML5/CSS3, KnockoutJS, and jQuery, alongside backend components in Java.
 - Implemented RESTful APIs and controllers within the Play Framework.
