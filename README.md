@@ -1,7 +1,7 @@
 # Hello, I'm Rieley Hunt
 
 Fourth year Computer Science Student (Honours, Co-op) at **Carleton University**, specializing in **Cybersecurity**.  
-Published HCI researcher, retro game business owner, and builder of tools that solve real problems. I like working where I can take on complex challenges.  
+I like to solve problems with computers.
 
 [rieley.ca](https://www.rieley.ca)
 [LinkedIn](https://www.linkedin.com/in/rieleyhunt)
